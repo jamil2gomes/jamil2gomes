@@ -4,7 +4,7 @@
 <ul>
   <li> :heart: I'm in progress of loving Javascript</li>
   <li> 🔭 I’m currently working on [Pulse LTDA](https://pulse.gupy.io/).</li>
-  <li> 🌱 I’m currently learning REACT NATIVE and REACTJS</li>
+  <li> 🌱 I’m currently learning REACT NATIVE, REACTJS and NODEJS</li>
   <li> :mortar_board: Bachelor of Information Systems - IFMA </li>
   <li> ⚡ Fun fact: if I don't like coffee does that make me a fake programmer?</li>
 </ul>
