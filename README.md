@@ -4,7 +4,7 @@
 <ul>
   <li> :heart: I'm in progress of loving Javascript</li>
   <li> 🔭 I’m currently working on [Pulse LTDA](https://pulse.gupy.io/).</li>
-  <li> 🌱 I’m currently learning REACT NATIVE, REACTJS and NODEJS</li>
+  <li> 🌱 I’m currently learning REACT NATIVE and REACTJS</li>
   <li> :mortar_board: Bachelor of Information Systems - IFMA </li>
   <li> ⚡ Fun fact: if I don't like coffee does that make me a fake programmer?</li>
 </ul>
@@ -21,10 +21,10 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-CB3837?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-Mysql-46a2f1?style=flat-square&logo=mysql&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" /> 
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-13aa52?style=flat-square&logo=springboot&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb&logoColor=white" /> 
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-CSS-CC6699?style=flat-square&logo=tailwindcss&logoColor=white" /> 
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-007ACC?style=flat-square&logo=tailwindcss&logoColor=white" /> 
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-5849BE?style=flat-square&logo=graphql&logoColor=white" /> 
   </p>
 </div>
 
