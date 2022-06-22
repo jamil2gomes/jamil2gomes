@@ -34,7 +34,5 @@
 <h3>Where to find me</h3>
 <span><a href="https://www.linkedin.com/in/jamil-gomes-de-azevedo-neto-566384136/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </span>
-<span><a href="https://www.instagram.com/jamil2gomes" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=red" /></a> 
-</span>
 <span><a href = "mailto:jamil.lannister23@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></span>
 <span><a href = "mailto:jamil.lanister@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=microsoft&logoColor=white&color=blue" target="_blank"></a></span>
