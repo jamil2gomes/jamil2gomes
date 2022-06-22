@@ -23,6 +23,8 @@
   <img alt="MySql" src="https://img.shields.io/badge/-Mysql-46a2f1?style=flat-square&logo=mysql&logoColor=white" /> 
   <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" /> 
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-13aa52?style=flat-square&logo=springboot&logoColor=white" /> 
+  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-CSS-CC6699?style=flat-square&logo=tailwindcss&logoColor=white" /> 
   </p>
 </div>
 
